@@ -1,5 +1,5 @@
 ## Olá! 
-Meu nome é Renato Augusto sou Engenheiro de Controle e Automação, formado pelo Centro universitário UNA, Técnico em eletrônica formado pelo SENAI-MG e Pós Graduando em sistemas eletroeletrônicos e Automação pelo CEFET-MG, aqui você irá encontrar repositórios variados sobre diversos assuntos, espero que consiga ajudar com algum conteúdo, sintam-se livres para comentar ou fazer modificaçãoes caso sejam pertinentes.
+Meu nome é Renato Augusto sou Engenheiro de Controle e Automação, formado pelo Centro universitário UNA, Técnico em eletrônica formado pelo SENAI-MG e Pós Graduando em Desenvolvimento de sistemas Web pela Fundação Getúlio Vargas (FGV), aqui você irá encontrar repositórios variados sobre diversos assuntos, espero que consiga ajudar com algum conteúdo, sintam-se livres para comentar ou fazer modificaçãoes caso sejam pertinentes.
 
 - 💡️ Projetos com PIC, ATMEGA e diversos microcontroladores; 
 - 🖥️ Projetos WEB ou integrações; 
